@@ -10,7 +10,7 @@
         {
             "environment": [],
             "name": "service-discovery",
-            "image": "richardbronosky/aws-ecs-service-discovery",
+            "image": "nanoscale/aws-ecs-service-discovery",
             "cpu": 2,
             "memory": 45,
             "entryPoint": ["awsesd"],
